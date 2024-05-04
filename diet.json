@@ -1,0 +1,78 @@
+{
+  "plans": {
+    "bulk": {
+      "15-20": {
+        "diet": {
+          "proteinPerDay": 150,
+          "carbsPerDay": 300,
+          "fatsPerDay": 70
+        },
+        "exercises": {
+          "day1": "Cardio - 30 minutes, Strength training - Upper body",
+          "day2": "Rest day",
+          "day3": "Cardio - 30 minutes, Strength training - Lower body",
+          "day4": "Rest day"
+        }
+      },
+      "21-30": {
+        "diet": {
+          "proteinPerDay": 160,
+          "carbsPerDay": 320,
+          "fatsPerDay": 75
+        },
+        "exercises": {
+          "day1": "Cardio - 45 minutes, Strength training - Upper body",
+          "day2": "Rest day",
+          "day3": "Cardio - 45 minutes, Strength training - Lower body",
+          "day4": "Rest day"
+        }
+      },
+      // More age ranges can be added here
+    },
+    "slim": {
+      "allAges": {
+        "diet": {
+          "proteinPerDay": 100,
+          "carbsPerDay": 200,
+          "fatsPerDay": 50
+        },
+        "exercises": {
+          "day1": "Cardio - 45 minutes, Yoga - 20 minutes",
+          "day2": "Rest day",
+          "day3": "Cardio - 45 minutes, Pilates - 20 minutes",
+          "day4": "Rest day"
+        }
+      }
+    },
+    "fit": {
+      "25-35": {
+        "diet": {
+          "proteinPerDay": 170,
+          "carbsPerDay": 280,
+          "fatsPerDay": 60
+        },
+        "exercises": {
+          "day1": "HIIT - 20 minutes, Strength training - Full body",
+          "day2": "Rest day",
+          "day3": "HIIT - 20 minutes, Cardio - 30 minutes",
+          "day4": "Rest day"
+        }
+      },
+      "36-45": {
+        "diet": {
+          "proteinPerDay": 180,
+          "carbsPerDay": 300,
+          "fatsPerDay": 65
+        },
+        "exercises": {
+          "day1": "Cardio - 30 minutes, Strength training - Upper body",
+          "day2": "Rest day",
+          "day3": "Cardio - 30 minutes, Strength training - Lower body",
+          "day4": "Rest day"
+        }
+      },
+      // More age ranges can be added here
+    },
+    // More plans for various genders and ages can be added here
+  }
+}
