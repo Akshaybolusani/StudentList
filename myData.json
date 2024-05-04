@@ -2,7 +2,7 @@
     {
       "Location": "Central Park, New York City",
       "Timestamp": "4/26/24 10:00",
-      "Picture": "C:\\Users\\ashuk\\OneDrive\\Desktop\\vibevista images\\central park.jpeg",
+      "Picture": "https://example.com/central-park.jpg",
       "Description": "Embarking on a symphony of serenity amidst the urban jungle, Central Park unveils its morning glory like a canvas brushed with dew-kissed dreams. Each step whispers tales of nature's resilience, while the city's heartbeat orchestrates a harmonious dance between skyscrapers and sprawling greens. Here, time slows to embrace the whispering winds and the gentle sway of emerald canopies, inviting one to lose oneself in the poetry of the park.",
       "Tags": "#CentralParkSerene #NatureLovers #UrbanEscape",
       "Likes": "350"
@@ -10,7 +10,7 @@
     {
       "Location": "Eiffel Tower, Paris",
       "Timestamp": "4/26/24 15:00",
-      "Picture": "C:\\Users\\ashuk\\OneDrive\\Desktop\\vibevista images\\eiffel tower.jpeg",
+      "Picture": "https://example.com/eiffel-tower.jpg",
       "Description": "Ascend to the pinnacle of Parisian elegance and grandeur, where the Eiffel Tower reigns supreme, casting its majestic silhouette against the azure canvas of the sky. From its lofty heights, behold the city of love in all its splendor, where every landmark tells a tale of romance and revolution, and every street corner whispers secrets of a bygone era. ",
       "Tags": "#EiffelElegance #ParisianPanorama #CityOfLove",
       "Likes": "600"
@@ -18,7 +18,7 @@
     {
       "Location": "Venice Beach, Los Angeles",
       "Timestamp": "4/26/24 17:30",
-      "Picture": "C:\\Users\\ashuk\\OneDrive\\Desktop\\vibevista images\\vinence beach.jpeg",
+      "Picture": "https://example.com/venice-beach.jpg",
       "Description": "Dive into the vibrant tapestry of Venice Beach, where the golden sands meet the endless expanse of the Pacific Ocean, and the salty breeze carries the promise of adventure on its wings. Lose yourself in the kaleidoscope of colors, where street performers dazzle and skateboarders dance, and every sunset paints the sky in hues of pink and gold.",
       "Tags": "#VeniceVibes #BeachLife #CaliforniaDreaming",
       "Likes": "450"
@@ -26,7 +26,7 @@
     {
       "Location": "Sydney Opera House, Sydney",
       "Timestamp": "4/26/24 20:00",
-      "Picture": "C:\\Users\\ashuk\\OneDrive\\Desktop\\vibevista images\\Sydney opera house.jpeg",
+      "Picture": "https://example.com/sydney-opera-house.jpg",
       "Description": "Behold the architectural masterpiece that is the Sydney Opera House, where sails of pure white grace the sparkling waters of Sydney Harbour, and the stage is set for performances that stir the soul. As day transitions into night, watch in awe as the iconic silhouette becomes a canvas for light, dancing to the rhythm of the city's heartbeat. ",
       "Tags": "#VeniceVibes #BeachLife #CaliforniaDreaming",
       "Likes": "700"
@@ -34,7 +34,7 @@
     {
       "Location": "Grand Canyon, Arizona",
       "Timestamp": "4/27/24 11:00",
-      "Picture": "C:\\Users\\ashuk\\OneDrive\\Desktop\\vibevista images\\grand canyon.jpeg",
+      "Picture": "https://example.com/grand-canyon.jpg",
       "Description": "Step to the edge of the world and gaze into the abyss of the Grand Canyon, where time stands still amidst a tapestry of ancient rock, painted in hues of crimson and gold by the hand of Mother Nature herself. Traverse the winding trails that lead to hidden vistas and panoramic viewpoints, each offering a glimpse into the vastness of this natural wonder. ",
       "Tags": "#GrandCanyonGaze #NatureUntamed #ArizonaAdventures",
       "Likes": "850"
@@ -42,7 +42,7 @@
     {
       "Location": "Great Wall of China, Beijing",
       "Timestamp": "4/27/24 14:00",
-      "Picture": "C:\\Users\\ashuk\\OneDrive\\Desktop\\vibevista images\\great wall of china.jpeg",
+      "Picture": "https://example.com/great-wall-of-china.jpg",
       "Description": "Embark on a journey through time along the ancient ramparts of the Great Wall of China, where stone dragons wind their way across rugged peaks, and whispered tales of emperors and warriors echo through the ages. Stand in awe of the sheer magnitude of this architectural marvel, a testament to the ingenuity and perseverance of generations past. ",
       "Tags": "#GreatWallWonders #ChinaChronicles #HistoricHike",
       "Likes": "750"
@@ -50,7 +50,7 @@
     {
       "Location": "Santorini, Greece",
       "Timestamp": "4/27/24 18:00",
-      "Picture": "C:\\Users\\ashuk\\OneDrive\\Desktop\\vibevista images\\santorini.jpg",
+      "Picture": "https://example.com/santorini.jpg",
       "Description": "Surrender to the allure of Santorini, where whitewashed buildings cling to cliffs that plunge into the azure embrace of the Aegean Sea, and sunsets set the sky ablaze in a symphony of colors. Wander through labyrinthine streets adorned with bougainvillea and blue-domed churches, where every corner reveals a postcard-perfect vista that steals the breath away. ",
       "Tags": "#SantoriniSunsets #GreekGetaway #IslandIdyll",
       "Likes": "1100"
@@ -58,7 +58,7 @@
     {
       "Location": "Machu Picchu, Peru",
       "Timestamp": "4/27/24 21:00",
-      "Picture": "C:\\Users\\ashuk\\OneDrive\\Desktop\\vibevista images\\machu picchu.jpeg",
+      "Picture": "https://example.com/machu-picchu.jpg",
       "Description": "Ascend to the mystical mountaintop citadel of Machu Picchu, where ancient stone temples and terraces stand testament to the ingenuity of the Inca civilization, and the rugged peaks of the Andes embrace the heavens above. Amidst the whispers of the wind and the songs of the Andean condor, immerse yourself in the magic of this UNESCO World Heritage site, where history and legend converge.",
       "Tags": "#MachuMagic #IncaWonders #PeruvianPilgrimage",
       "Likes": "950"
@@ -66,7 +66,7 @@
     {
       "Location": "Niagara Falls, Canada",
       "Timestamp": "4/28/24 12:00",
-      "Picture": "C:\\Users\\ashuk\\OneDrive\\Desktop\\vibevista images\\niagara falls.jpeg",
+      "Picture": "https://example.com/niagara-falls.jpg",
       "Description": "Feel the thunderous roar and misty embrace of Niagara Falls, where the mighty waters of the Niagara River cascade over ancient cliffs with breathtaking force and grace. Stand in awe at the brink of the falls, where rainbows dance amidst the spray, and the sheer power of nature's beauty leaves an indelible mark on the soul. ",
       "Tags": "#NiagaraNirvana #CanadaCascades #WaterfallWonder",
       "Likes": "650"
@@ -74,7 +74,7 @@
     {
       "Location": "Tokyo Skytree, Tokyo",
       "Timestamp": "4/28/24 15:30",
-      "Picture": "C:\\Users\\ashuk\\OneDrive\\Desktop\\vibevista images\\tokyo skytree.jpeg",
+      "Picture": "https://example.com/tokyo-skytree.jpg",
       "Description": "Rise above the bustling metropolis of Tokyo to the heights of Tokyo Skytree, where modernity meets tradition amidst a skyline adorned with neon lights and ancient temples. From this lofty vantage point, marvel at the urban symphony below, where the pulse of the city thrums with energy and life, and every street corner holds the promise of adventure and discovery. ",
       "Tags": "#TokyoTowers #SkyHighViews #UrbanUtopia",
       "Likes": "500"
@@ -82,7 +82,7 @@
     {
       "Location": "Petra, Jordan",
       "Timestamp": "4/28/24 18:00",
-      "Picture": "C:\\Users\\ashuk\\OneDrive\\Desktop\\vibevista images\\petra.jpeg",
+      "Picture": "https://example.com/petra.jpg",
       "Description": "Venture into the lost city of Petra, where rose-red cliffs guard secrets of civilizations past, and the whispers of ancient traders still linger in the wind. Wander through narrow siq canyons that reveal glimpses of ornate temples and royal tombs carved into the rock, each bearing witness to the splendor of a bygone era.",
       "Tags": "#PetraPilgrimage #JordanJewel #AncientAdventures",
       "Likes": "850"
@@ -90,7 +90,7 @@
     {
       "Location": "Banff National Park, Canada",
       "Timestamp": "4/28/24 20:30",
-      "Picture": "C:\\Users\\ashuk\\OneDrive\\Desktop\\vibevista images\\banff national park.jpeg",
+      "Picture": "https://example.com/banff-national-park.jpg",
       "Description": "Immerse yourself in the untamed beauty of Banff National Park, where towering peaks and turquoise lakes create a landscape that seems plucked from a fairy tale. Hike through ancient forests alive with the songs of wildlife, and breathe in the crisp mountain air as you witness the dance of the Northern Lights in the night sky. ",
       "Tags": "#BanffBeauty #CanadianWilderness #RockyMountainMagic",
       "Likes": "750"
@@ -98,7 +98,7 @@
     {
       "Location": "Statue of Liberty, New York City",
       "Timestamp": "4/29/24 10:00",
-      "Picture": "C:\\Users\\ashuk\\OneDrive\\Desktop\\vibevista images\\statue of liberty.jpeg",
+      "Picture": "https://example.com/statue-of-liberty.jpg",
       "Description": "Stand in the shadow of Lady Liberty herself, where the torch of freedom illuminates the New York City skyline and serves as a beacon of hope for millions. As you gaze upon her majestic form, feel the echoes of history whisper through the air, reminding us of the enduring spirit of democracy and the promise of a better tomorrow",
       "Tags": "#LibertyLegacy #NYCIcon #AmericanDream",
       "Likes": "1200"
@@ -106,7 +106,7 @@
     {
       "Location": "Angkor Wat, Cambodia",
       "Timestamp": "4/29/24 13:00",
-      "Picture": "C:\\Users\\ashuk\\OneDrive\\Desktop\\vibevista images\\angkor.jpeg",
+      "Picture": "https://example.com/angkor-wat.jpg",
       "Description": "Journey into the heart of ancient Cambodia and discover the splendor of Angkor Wat, where towering spires and intricately carved bas-reliefs bear witness to the glory of the Khmer Empire. As the sun rises over this UNESCO World Heritage site, watch in awe as the temple complex is bathed in golden light, casting a spell that transcends time and space. ",
       "Tags": "#AngkorAwakening #CambodianCrownJewel #TempleTranquility",
       "Likes": "1050"
@@ -114,10 +114,9 @@
     {
       "Location": "Yellowstone National Park, USA",
       "Timestamp": "4/29/24 16:00",
-      "Picture": "C:\\Users\\ashuk\\OneDrive\\Desktop\\vibevista images\\yellowstone.jpeg",
+      "Picture": "https://example.com/yellowstone.jpg",
       "Description": "Explore the untamed wilderness of Yellowstone National Park, where geothermal wonders and pristine landscapes converge to create a playground for the adventurous spirit. From the bubbling mud pots of the Lower Geyser Basin to the towering spires of Mammoth Hot Springs, every corner of this natural wonderland tells a story of the earth's raw power and enduring beauty.",
       "Tags": "#YellowstoneYonder #AmericanAdventure #NatureUnleashed",
       "Likes": "950"
     }
-  ]
-  
+]
