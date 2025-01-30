@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<script>
+let title;
+for(let i=0; i<3; i++){
+	title = document.createElement('h2')
+	title.className="tt"
+	title.textContent=i
+	document.write(title)
+}
+</script>
+<script>
+const titles = ["a","b","c"];
+for(let x of titles){
+	titles.className = "z";
+    titles.textContent = "asd";
+    document.write(titles);
+</script>
+
+<ul>
+<li>Sainath</li>
+<li>Sai charan</li>
+<li>Kishore</li>
+</ul>
+
+<script>
+const ul = document.querySelector('ul')
+const lists = document.querySelectorAll('li')
+for(const list of lists){
+	document.write(`Removing: ${list.textContent}`,'<br>');
+    ul.removeChild(list);
+    
+    }
+</script>
+</body>
+</html>
