@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<div id="a">
+	<h1>Ravi</h1>
+    <h1>Ram</h1>
+</div>
+
+<div id="b">
+	<h2>Sam</h2>
+    <h2>Venkat</h2>
+</div>
+
+<script>
+	let n = document.createElement("i");
+    n.textContent = "Akshay";
+    
+    let p = document.getElementById('b');
+    let l = p.getElementsByTagName('h2')[0];
+    
+    p.insertBefore(n, l);  
+</script>
+
+<script>
+	let a = document.getElementById("a")
+    a.remove();
+</script>
+
+
+</body>
+</html>
